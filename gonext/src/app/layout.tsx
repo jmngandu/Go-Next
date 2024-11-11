@@ -35,8 +35,10 @@ export default function RootLayout({
             <Navigation />
           </header>
           {children}
-          <footer className="bg-slate-950 text-white text-center">
-            always appreciate
+          <footer className="py-6 bg-blue-600 text-white text-center">
+            <p>
+              &copy; {new Date().getFullYear()} Your Name. All rights reserved.
+            </p>
           </footer>
         </body>
       </html>
