@@ -37,7 +37,7 @@ export default function RootLayout({
           {children}
           <footer className="py-6 bg-blue-600 text-white text-center">
             <p>
-              &copy; {new Date().getFullYear()} Your Name. All rights reserved.
+              &copy; {new Date().getFullYear()} Go next. All rights reserved.
             </p>
           </footer>
         </body>

@@ -17,10 +17,8 @@ export default function Home() {
     <div className="font-sans text-gray-800 bg-gray-100">
       {/* Header Section */}
       <header className="bg-blue-600 text-white py-8 text-center">
-        <h1 className="text-3xl font-semibold">My Portfolio</h1>
-        <p className="text-lg">
-          Welcome to my personal website. Here's a look at my work.
-        </p>
+        <h1 className="text-3xl font-semibold">Portfolio</h1>
+        <p className="text-lg">Welcome to Go Next. Here's a look at my work.</p>
       </header>
 
       {/* About Section */}
